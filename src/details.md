@@ -16,7 +16,7 @@ Java版IP：frp-bar.top:28850
 3. 通过插件，实现实现了Java版和基岩版间、不同Java版间（1.7及以上）的互通。
 
 ## 存档下载
-1. [Java版存档](https://cloud.189.cn/web/share?code=rInuAfnyINBr)
+1. [Java版存档（访问码：ttm5）](https://cloud.189.cn/web/share?code=rInuAfnyINBr)
 2. [基岩版存档（新）](https://cloud.189.cn/web/share?code=MnmY7bJbIzQj)
 3. [基岩版存档（旧）](https://wws.lanzoux.com/b01tqlfra)
 
