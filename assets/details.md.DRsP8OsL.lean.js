@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.h-E1PUmN.js";const m=JSON.parse('{"title":"详细信息","description":"","frontmatter":{},"headers":[],"relativePath":"details.md","filePath":"details.md"}'),o={name:"details.md"},p=r("",8),s=[p];function n(_,i,c,l,d,h){return t(),e("div",null,s)}const u=a(o,[["render",n]]);export{m as __pageData,u as default};
