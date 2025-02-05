@@ -13,6 +13,6 @@ hero:
 features:
   - title: 互通
     details: 利用Geyser、Via等插件实现了Java版和基岩版间、不同Java版间的互通。
-  - title: 插件
-    details: 通过Slimefun等插件丰富了玩法。
+  # - title: 插件
+  #   details: 通过Slimefun等插件丰富了玩法。
 ---

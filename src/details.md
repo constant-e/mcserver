@@ -1,10 +1,10 @@
 # 详细信息
 ## 基础信息
-版本：1.20.6 (Build 148)
+版本：1.21.4 (Build 138)
 
-Java版IP：frp-bar.top:28850
+Java版IP：frp-man.com:17890
 
-基岩版IP：cn-sy-bgp-plustmp1.natfrp.cloud
+基岩版IP：frp-net.com
 
 基岩版端口：20530
 
@@ -25,10 +25,9 @@ Java版IP：frp-bar.top:28850
 2. EssentialsX - 2.21.0 dev
 3. EssentialsXChat - 2.21.0 dev
 4. EssentialsXSpawn - 2.21.0 dev
-5. Geyser-Spigot - 2.4.0 snapshot
-6. SkinRestorer - 15.4.0
-7. Slimefun4 - dev
-8. Vault - 1.7.3b131
-9. ViaBackwards - 5.0.1
-10. ViaRewind - 4.0.1
-11. ViaVersion - 5.0.1
+5. Geyser-Spigot - 2.6.0 snapshot
+6. SkinRestorer - 15.5.2
+7. Vault - 1.7.3b131
+8. ViaBackwards - 5.2.1
+9.  ViaRewind - 4.0.5
+10. ViaVersion - 5.2.1
